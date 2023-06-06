@@ -1,7 +1,7 @@
 # My Git Project
 ## Author: Katerina Bulekova, President Brown
 ## Date: June 5, 2023
-
+## Added line to file
 Here is the description of my project
 
 
